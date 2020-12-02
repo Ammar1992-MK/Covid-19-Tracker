@@ -1,0 +1,21 @@
+body {
+  background-color: #37474f;
+}
+.submit-form {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+.search-bar {
+  border-radius: 10px;
+  border: none;
+  width: 200px;
+  height: 30px;
+  outline: none;
+}
+.search-button {
+  border: none;
+  background-color: rgb(19, 51, 118);
+  color: rgb(227, 227, 227);
+}
